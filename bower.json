@@ -1,0 +1,17 @@
+{
+  "name": "Mike Plate Public Github Pages",
+  "version": "0.0.1",
+  "homepage": "http://mikeplate.github.com",
+  "authors": [
+    "Mikael Plate <contact@mikeplate.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

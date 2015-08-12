@@ -1,0 +1,9 @@
+bower_components/*
+
+!bower_components/bootstrap/
+bower_components/bootstrap/*
+!bower_components/bootstrap/dist/
+
+!bower_components/jquery/
+bower_components/jquery/*
+!bower_components/jquery/dist/
